@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Portfolio.io/static/css/main.67b7536c.chunk.css",
+    "main.js": "/Portfolio.io/static/js/main.0f1e146d.chunk.js",
+    "main.js.map": "/Portfolio.io/static/js/main.0f1e146d.chunk.js.map",
+    "runtime-main.js": "/Portfolio.io/static/js/runtime-main.65b2c7eb.js",
+    "runtime-main.js.map": "/Portfolio.io/static/js/runtime-main.65b2c7eb.js.map",
+    "static/js/2.a68e3a42.chunk.js": "/Portfolio.io/static/js/2.a68e3a42.chunk.js",
+    "static/js/2.a68e3a42.chunk.js.map": "/Portfolio.io/static/js/2.a68e3a42.chunk.js.map",
+    "index.html": "/Portfolio.io/index.html",
+    "static/css/main.67b7536c.chunk.css.map": "/Portfolio.io/static/css/main.67b7536c.chunk.css.map",
+    "static/js/2.a68e3a42.chunk.js.LICENSE.txt": "/Portfolio.io/static/js/2.a68e3a42.chunk.js.LICENSE.txt",
+    "static/media/InfinityLove.d936c4b8.png": "/Portfolio.io/static/media/InfinityLove.d936c4b8.png",
+    "static/media/PhoneBookApp.b72c9682.png": "/Portfolio.io/static/media/PhoneBookApp.b72c9682.png",
+    "static/media/React.cd867972.png": "/Portfolio.io/static/media/React.cd867972.png",
+    "static/media/booksApp.cda7540d.png": "/Portfolio.io/static/media/booksApp.cda7540d.png",
+    "static/media/cv.css": "/Portfolio.io/static/media/cv-background.e09c0269.jpg",
+    "static/media/cv.1afb16d0.png": "/Portfolio.io/static/media/cv.1afb16d0.png",
+    "static/media/design.774b7b96.png": "/Portfolio.io/static/media/design.774b7b96.png",
+    "static/media/elegant.266f823f.png": "/Portfolio.io/static/media/elegant.266f823f.png",
+    "static/media/games.6c879f26.png": "/Portfolio.io/static/media/games.6c879f26.png",
+    "static/media/html-css-js.08f5aeef.png": "/Portfolio.io/static/media/html-css-js.08f5aeef.png",
+    "static/media/html-css.fdd549b9.png": "/Portfolio.io/static/media/html-css.fdd549b9.png",
+    "static/media/mealsCategory.46d5dea7.png": "/Portfolio.io/static/media/mealsCategory.46d5dea7.png",
+    "static/media/menuRate.9bbedb3b.png": "/Portfolio.io/static/media/menuRate.9bbedb3b.png",
+    "static/media/my.ea038ca2.jpg": "/Portfolio.io/static/media/my.ea038ca2.jpg",
+    "static/media/phoneBook.ed47951f.png": "/Portfolio.io/static/media/phoneBook.ed47951f.png",
+    "static/media/photoAlbums.705c1260.png": "/Portfolio.io/static/media/photoAlbums.705c1260.png",
+    "static/media/react-redux.33ab6dde.png": "/Portfolio.io/static/media/react-redux.33ab6dde.png",
+    "static/media/recipes.9c325376.png": "/Portfolio.io/static/media/recipes.9c325376.png",
+    "static/media/robots.5c6b7e26.png": "/Portfolio.io/static/media/robots.5c6b7e26.png",
+    "static/media/tinyone.2b4b1c3d.png": "/Portfolio.io/static/media/tinyone.2b4b1c3d.png",
+    "static/media/todo.7caa55bf.png": "/Portfolio.io/static/media/todo.7caa55bf.png",
+    "static/media/useful-contacts.022a6c2e.jpg": "/Portfolio.io/static/media/useful-contacts.022a6c2e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65b2c7eb.js",
+    "static/js/2.a68e3a42.chunk.js",
+    "static/css/main.67b7536c.chunk.css",
+    "static/js/main.0f1e146d.chunk.js"
+  ]
+}
