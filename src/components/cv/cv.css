@@ -1,0 +1,27 @@
+.main-section-cv{
+    background-image: url(../../images/cv-background.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.cv-image{
+    height: 700px;
+    margin: 20px auto;
+    display: block;
+}
+
+.photo-map{
+    height: 400px;
+    width: 600px;
+    margin: 100px auto 0px;
+}
+
+.to-pdf {
+    text-decoration: none;
+    float:right;
+    font-weight: 700;
+    color: #fb6d3a;
+    text-transform: uppercase;
+}

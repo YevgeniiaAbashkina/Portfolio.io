@@ -1,0 +1,75 @@
+.main-section{
+    background: radial-gradient(circle, rgba(195,173,173,1) 0%,  rgb(37, 50, 70) 77%);
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 60px;
+}
+
+.container{
+    width: 900px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.container h1{
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+}
+
+.items{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    flex-basis: calc(100%/2 - 40px);
+    background-color: rgba(80, 220, 255, 0.164);
+    border-radius: 20px;
+    box-shadow: rgb(15, 20, 27) 0px 30px 18px 5px;
+    transition: background-color 0.8s 0.2s ease;
+    cursor: pointer;
+    height: 260px;
+}
+
+.item-react{
+    padding: 20px;
+}
+
+.item-react h3{
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 1.6rem;
+}
+
+.item:hover{
+    background-color: rgba(252, 138, 31, 0.164);
+}
+
+.js-img{
+    width: 376px;
+    padding: 4px;
+}
+
+.html-css-img{
+    width: 280px;
+    padding: 6px;
+}
+
+.react-img{
+    width: 250px;
+    margin: 0 auto;
+
+}
+
+.react_redux-img{
+    width: 270px;
+    margin: 20px auto;
+}

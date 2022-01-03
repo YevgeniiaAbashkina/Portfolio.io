@@ -1,0 +1,26 @@
+.navigation{
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(30, 41, 57);
+    _position: fixed;
+    width: 100%;
+}
+
+.navigation ul{
+    list-style: none;
+    display: flex;
+}
+
+.navlink, .active{
+    color: white;
+    list-style:  none;
+    text-decoration: none;
+}
+
+.navigation ul li{
+    padding: 20px;
+}
+
+.active{
+    color: #fb6d3a;
+}

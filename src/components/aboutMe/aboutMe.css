@@ -1,0 +1,23 @@
+.about-section{
+    padding-top: 100px !important;
+    display: flex;
+    justify-content: space-between;
+}
+
+.my-photo{
+    max-height: 460px;
+    box-shadow: rgb(34, 36, 37) 0px 30px 18px 5px;
+}
+
+.about-text{
+    margin-left: 30px;
+    color: white;
+    line-height:2.1em;
+    text-align: justify;
+}
+
+.thick-text{
+    font-weight: 700;
+    font-size: 1.3em;
+    color: #fb6d3a;
+}

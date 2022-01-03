@@ -1,0 +1,54 @@
+.project-section{
+    height: fit-content;
+    padding-bottom: 50px;
+}
+
+.project-items{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.project-item{
+    flex-basis: 100%;
+    padding: 10px 10px 6px;
+    margin: 16px;
+    display: flex;
+    background-color: rgba(0,0,0,0.2);
+    border-radius: 6px;
+}
+
+.project-item a{
+    text-decoration: none;
+}
+
+.design{
+    width: 500px;
+    align-self: flex-start;
+    transition: all 0.8s ease-in;
+}
+
+.design:hover{
+    transform: scale(1.07);
+}
+
+.description{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    color: white;
+    padding-left: 16px;
+    margin-left: 20px;
+}
+
+.description h3{
+    text-transform: uppercase;
+}
+
+.description a{
+    text-decoration: none;
+    color: #fb6d3a;
+}
+
+.description li{
+    padding: 5px 0;
+}
